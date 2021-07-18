@@ -78,8 +78,7 @@
 
 <div class="jp-OutputPrompt jp-OutputArea-prompt">Out:</div>
 
-<div class="jp-RenderedLatex jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/latex">$\displaystyle \left[\begin{matrix}\frac{s + 8}{s^{2} - 5 s - 44}\end{matrix}\right]$</div>
-
+<img src="https://latex.codecogs.com/svg.image?\frac{s&plus;8}{s^2-5s-44}" title="\frac{s+8}{s^2-5s-44}" />
 </div>
 
 </div>
