@@ -596,7 +596,7 @@ controllability
 
 <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
 
-<div class="jp-RenderedLatex jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/latex">$\displaystyle \left[\begin{matrix}98.0 & 54.0 & 7.0\end{matrix}\right]$</div>
+<img src="https://latex.codecogs.com/svg.image?\begin{vmatrix}98.0&space;&54.0&space;&space;&&space;7.0&space;\\\end{vmatrix}&space;" title="\begin{vmatrix}98.0 &54.0 & 7.0 \\\end{vmatrix} " />
 
 </div>
 
