@@ -1,3 +1,26 @@
+# Pyctrl
+
+Pyctrl is an open source modern control library
+
+## Features
+- state space to transfer function 
+- tranfer function to state space 
+- System Solution
+- Controlability
+- Observability
+- Stabillity
+- Stepresonse
+- Pole placement 
+
+## Dependencies 
+- numpy
+- sympy
+- mpmath
+- matplotlib
+
+
+## Documentation
+
 <div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 
 <div class="jp-Cell-inputWrapper">
@@ -608,4 +631,7 @@ Out:
 
 </div>
 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+  
 
