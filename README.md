@@ -478,7 +478,7 @@ controllability
 
 <div class="jp-OutputArea-child">
 
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out:</div>
 
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
 
@@ -504,13 +504,14 @@ controllability
 
 </div>
 
+
 <div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 
 <div class="jp-Cell-inputWrapper">
 
 <div class="jp-InputArea jp-Cell-inputArea">
 
-<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In :</div>
 
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 
@@ -534,11 +535,12 @@ controllability
 <div class="jp-Cell-outputWrapper">
 
 <div class="jp-OutputArea jp-Cell-outputArea">
-
+Out:
 <div class="jp-OutputArea-child">
+ 
+<img src="https://i.imgur.com/nHAlehO.png " />
 
-
-)</div>
+</div>
 
 </div>
 
@@ -564,7 +566,7 @@ controllability
 
 <div class="jp-InputArea jp-Cell-inputArea">
 
-<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In :</div>
 
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 
