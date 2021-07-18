@@ -266,7 +266,7 @@ the default is the controllble form
 
 <div class="jp-OutputPrompt jp-OutputArea-prompt">Out:</div>
 
-<div class="jp-RenderedLatex jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/latex">$\displaystyle \left[\begin{matrix}\frac{s^{2} - s + 8}{s \left(s^{2} - 5 s - 44\right)}\\\frac{2 \left(3 s + 1\right)}{s \left(s^{2} - 5 s - 44\right)}\end{matrix}\right]$</div>
+<img src="https://latex.codecogs.com/svg.image?\begin{matrix}\frac{s^{2}&space;-&space;s&space;&plus;&space;8}{s&space;\left(s^{2}&space;-&space;5&space;s&space;-&space;44\right)}&space;\\&space;\\&space;&space;\frac{2&space;\left(3&space;s&space;&plus;&space;1\right)}{s&space;\left(s^{2}&space;-&space;5&space;s&space;-&space;44\right)}\end{matrix}" title="\begin{matrix}\frac{s^{2} - s + 8}{s \left(s^{2} - 5 s - 44\right)} \\ \\ \frac{2 \left(3 s + 1\right)}{s \left(s^{2} - 5 s - 44\right)}\end{matrix}" />
 
 </div>
 
